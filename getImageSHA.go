@@ -4,7 +4,7 @@ import (
     "errors"
     "fmt"
     "net/http"
-    "github.com/toml"
+    "github.com/BurntSushi/toml"
     "os"
     "flag"
 )
